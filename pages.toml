@@ -1,0 +1,20 @@
+[[pages]]
+path = "./pages/1_introducao.py"
+name = "Tech Challenge - Fase 4"
+icon = "🖥️"
+
+[[pages]]
+path = "./pages/2_eda.py"
+name = "Exploração e Insights"
+icon = "📈"
+
+[[pages]]
+path = "./pages/3_previsao.py"
+name = "Previsão"
+icon = "⚙️"
+
+[[pages]]
+path = "./pages/4_conclusao.py"
+name = "Conclusão"
+icon = "🎯"
+
